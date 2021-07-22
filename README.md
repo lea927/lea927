@@ -30,6 +30,8 @@
 
 [Blog App](https://avion-lea-blog.herokuapp.com/)
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lea927&theme=radical" alt="lea927" /></p>
+
 <p align="center">
 <img width="49%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lea927&theme=dark&langs_count=10&layout=compact" />
 </p>
