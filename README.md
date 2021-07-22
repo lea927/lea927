@@ -14,6 +14,22 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 <br />
 
+### Back-end
+
+![Ruby](https://img.shields.io/badge/-RUBY-05122A?style=flat&logo=ruby&logoColor=red)
+![Rails](https://img.shields.io/badge/-RAILS-05122A?style=flat&logo=ruby%20on%20rails&logoColor=red)
+![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql)
+
+## 💻 Projects
+
+#### 👾 Front-end
+
+[Avion Front-end Projects](https://lea927.github.io/avion-front-end/)
+
+#### 🤖 Back-end
+
+[Blog App](https://avion-lea-blog.herokuapp.com/)
+
 <p align="center">
 <img width="49%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lea927&theme=dark&langs_count=10&layout=compact" />
 </p>
