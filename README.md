@@ -28,7 +28,8 @@
 
 #### 🤖 Back-end
 
-[Blog App](https://avion-lea-blog.herokuapp.com/)
+- [Blog App](https://avion-lea-blog.herokuapp.com/) 👩‍💻 [Code](https://github.com/lea927/avion_blog)
+- [Journal App](https://avion-lea-blog.herokuapp.com/) In collaboration with [jjhay-bot](https://journal321.herokuapp.com/)👩‍💻[Code](https://github.com/jjhay-bot/App_Journal)
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lea927&theme=radical" alt="lea927" /></p>
 
