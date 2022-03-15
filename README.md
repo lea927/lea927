@@ -1,10 +1,10 @@
 # Hello world, I'm Lea <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 👩‍💻 I'm a Ruby on Rails Engineer from the Philippines
-- ⚡ When I'm away from my computer I either play with my cats and dog or play video games
+ 👩‍💻 I'm a Ruby on Rails Engineer from the Philippines <br>
+⚡ When I'm away from my computer I either play with my cats and dog or play video games<br>
 ## 📩 Say hello
-LinkedIn: https://www.linkedin.com/in/lealynltinoso/</br>
-E-mail: lxthym@icloud.com
+[LinkedIn](https://www.linkedin.com/in/lealynltinoso/)</br>
+[E-mail](mailto:lxthym@icloud.com)
 ## 🛠 &nbsp;Tech Stacks
 ![Rails](https://img.shields.io/badge/-Rails-05122A?style=flat&logo=ruby%20on%20rails&logoColor=red)
 ![ReactJS](https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=react)
@@ -18,10 +18,10 @@ E-mail: lxthym@icloud.com
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 
 ## 💻 Portfolio
-https://lea927.github.io/
+[Click here to visit my portfolio](https://lea927.github.io/)
 ## 📈 Github Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lea927&theme=radical" alt="lea927" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lea927&theme=radical" alt="lea927" /></p>
 
 <p align="center">
 <img width="49%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lea927&theme=dark&langs_count=10&layout=compact" />
