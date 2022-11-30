@@ -1,7 +1,9 @@
 # Hello world, I'm Lea <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
- 👩‍💻 I'm a Ruby on Rails Engineer from the Philippines <br>
-⚡ When I'm away from my computer I either play with my cats and dog or play video games<br>
+ 👩‍💻 I'm a Full-Stack Software Engineer from the Philippines <br>
+⚡ I specialize in Ruby on Rails for back-end and ReactJS for front-end<br>
+⚡ I've been coding Ruby on Rails since 2020<br>
+⚡ I've had commercial experience with RoR & ReactJS since 2021<br>
 ## 📩 Say hello
 [LinkedIn](https://www.linkedin.com/in/lealynltinoso/)</br>
 [E-mail](mailto:lxthym@icloud.com)
@@ -17,8 +19,6 @@
 ![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 
-## 💻 Portfolio
-[Click here to visit my portfolio](https://lea927.github.io/)
 ## 📈 Github Stats
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lea927&theme=radical" alt="lea927" /></p>
