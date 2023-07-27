@@ -1,14 +1,20 @@
 # Hello world, I'm Lea <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://app.daily.dev/lea927"><img src="https://api.daily.dev/devcards/c6a1eee9ff8f49bf95a5a8430acff3ff.png?r=urp" width="400" alt="Lea Tiñoso's Dev Card"/></a>
+<center>
+    <a align="center" href="https://app.daily.dev/lea927">
+     <img src="https://api.daily.dev/devcards/c6a1eee9ff8f49bf95a5a8430acff3ff.png?r=urp" width="400" alt="Lea Tiñoso's Dev Card"/>
+    </a>
+</center>
 
- 👩‍💻 I'm a Full-Stack Software Engineer from the Philippines <br>
-⚡ I specialize in Ruby on Rails for back-end and ReactJS for front-end<br>
-⚡ I've been coding Ruby on Rails since 2020<br>
-⚡ I've had commercial experience with RoR & ReactJS since 2021<br>
+## 👩‍💻 A little bit about me
+<p>⚡ I'm a <strong>Full-Stack Software Engineer</strong> working remotely from the Philippines</p>
+<p>⚡ I specialize in <strong>Ruby on Rails</strong> for back-end and <strong>ReactJS</strong> for front-end</p>
+<p>⚡ I've had commercial experience with RoR & ReactJS since 2021</p>
+
 ## 📩 Say hello
-[LinkedIn](https://www.linkedin.com/in/lealynltinoso/)</br>
-[E-mail](mailto:lxthym@icloud.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lealynltinoso/)](https://www.linkedin.com/in/lealynltinoso/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:lxthym@icloud.com)](mailto:lealyn.tinoso@gmail.com)
+
 ## 🛠 &nbsp;Tech Stacks
 ![Rails](https://img.shields.io/badge/-Rails-05122A?style=flat&logo=ruby%20on%20rails&logoColor=red)
 ![ReactJS](https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=react)
