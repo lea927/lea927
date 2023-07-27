@@ -1,5 +1,7 @@
 # Hello world, I'm Lea <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<a href="https://app.daily.dev/lea927"><img src="https://api.daily.dev/devcards/c6a1eee9ff8f49bf95a5a8430acff3ff.png?r=urp" width="400" alt="Lea Tiñoso's Dev Card"/></a>
+
  👩‍💻 I'm a Full-Stack Software Engineer from the Philippines <br>
 ⚡ I specialize in Ruby on Rails for back-end and ReactJS for front-end<br>
 ⚡ I've been coding Ruby on Rails since 2020<br>
