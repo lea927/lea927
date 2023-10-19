@@ -34,3 +34,7 @@
 <p align="center">
 <img width="49%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lea927&theme=dark&langs_count=10&layout=compact" />
 </p>
+
+## 📈 Wakatime Stats
+
+[![Lea's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lea927)](https://github.com/lea927)
